@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 haha-fun
 
-![Nux-cat](https://octodex.github.com/images/NUX_Octodex.gif)
+![Nux-cat](https://octodex.github.com/images/yogitocat.png)
 {: .center}
