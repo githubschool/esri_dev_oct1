@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+My first Caption! 
 
-![testchange](https://octodex.github.com/images/dojocat.jpg)
+![testchange](https://octodex.github.com/images/daftpunktocat-guy.gif)
 {: .center}
