@@ -5,5 +5,6 @@ title: "Welcome to our slide deck!"
 
 Hello! Git is fun.
 
-![skitchtocat](https://octodex.github.com/images/skitchtocat.png)
+<img width="896" height="896" alt="image" src="https://github.com/user-attachments/assets/27a2ac5f-7f8f-4117-a057-c423882666c1" />
+
 {: .center}
