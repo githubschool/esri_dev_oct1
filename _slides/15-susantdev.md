@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 Go Dodgers!
 
-![defunktocat](https://octodex.github.com/images/defunktocat.png)
+![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
