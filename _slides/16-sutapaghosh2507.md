@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 Explorer of bugs and ideas.
 
-![dinotocat](https://octodex.github.com/images/dinotocat.png)
+![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
