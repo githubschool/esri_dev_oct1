@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 This is my octocat
 
-![bewitchedtoat]([https://octodex.github.com/images/snowoctocat.png](https://octodex.github.com/bewitchedtocat/))
+![bewitchedtoat](https://octodex.github.com/bewitchedtocat/))
 {: .center}
