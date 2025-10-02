@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+I'm tired and have a bad cough!  
 
-![octofez](https://octodex.github.com/images/octofez.png)
+![octofez](https://octodex.github.com/images/mummytocat.gif)
 {: .center}
