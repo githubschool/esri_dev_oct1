@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Explorer of bugs and ideas.
 
-![luchadortocat](https://octodex.github.com/images/luchadortocat.png)
+![inspectocat](https://octodex.github.com/images/inspectocat.jpg)
 {: .center}
